@@ -51,3 +51,5 @@ and run:
 ```bash
 go install go.abhg.dev/stitchmd@latest
 ```
+
+say Hello
